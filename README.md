@@ -30,7 +30,7 @@ Clone the repository and install the dependencies:
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/LuminaScan-AI.git
+git clone https://github.com/punsimran/LuminaScan-AI.git
 cd LuminaScan-AI
 
 # Create a virtual environment
