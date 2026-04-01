@@ -14,8 +14,8 @@ LuminaScan AI is a modern, high-precision medical imaging desktop application bu
 ---
 
 ## 📸 Screenshots
-*(Tip: Add your screenshot here by uploading it to your GitHub repo and linking it below)*
-![App Dashboard](screenshot.png)
+<img width="1920" height="974" alt="image" src="https://github.com/user-attachments/assets/cc5fa709-92b0-4f54-b058-7590a7c5aec6" />
+
 
 ---
 
